@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.bw-container {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.center {
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+}
